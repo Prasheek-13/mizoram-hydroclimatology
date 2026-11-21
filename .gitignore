@@ -1,0 +1,12 @@
+﻿*.nc
+*.tif
+*.shp
+*.dbf
+*.shx
+*.prj
+*.cpg
+*.csv
+*.png
+dem_tiles/
+venv/
+__pycache__/
